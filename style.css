@@ -1,0 +1,10 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+.boxhlavicka {
+    background-color: palevioletred;
+    margin: 40px;
+    border: thick blue double;
+    border-radius: 50px;
+    text-align: center;
+}
